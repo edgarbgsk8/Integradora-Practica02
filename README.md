@@ -118,7 +118,10 @@ Para poder crear tu prime repositorio en Github deberas;
 5. Definir si incluye un archivo de descripción llamado: READNE.md
 6. Definir si habrá exclusiones de archivo a través del archivo a través del archivo: gitignore
 
-
+### 7. Ligas (hipervinculos)
+Las liiigas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de él. Y se maqueta utilizando los corchetes /[ \]
+**EJEMPLO:**
+Mi buscador favorito es: [Google](httos://vivn.google.com).
 
 
 
