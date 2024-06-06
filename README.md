@@ -104,7 +104,19 @@ C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root
 password ‹ respaldo sal
 documentar (actualización del apartado 5)
 
-
+**6. Listas ordenadas y Desordenadas
+si en nuestra documentación necesitamos incluir informacion de texto en modo de lista, un elemento tras otro podemos hacerlo utilizando los números con un puntodecimal si las deceamos
+ordenadas o un guin en medio - si solo queremos una viñeta
+*EJEMPLO*
+Para poder crear tu prime repositorio en Github deberas;
+1. Contar con una cuenta GitHub
+2. Dar clic en el botón *Nuevo Repositorio
+3. Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b°
+4. Asignarle un nivel de privacidad entre
+*PUBLICO* Si quieres que este disponible para todos los usuarios.
+*PRIVADO* Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
+5. Definir si incluye un archivo de descripción llamado: READNE.md
+6. Definir si habrá exclusiones de archivo a través del archivo a través del archivo: gitignore
 
 
 
