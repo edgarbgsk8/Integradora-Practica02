@@ -95,7 +95,14 @@ También podemos ingresas textos multilínea
 ›que hemos diseñado.
 Y si deseamos incluir viñetas para enlistar los pasos podemos utilizar el carácter dentro del texto a documentar
 *EJEMPLO*
-
+*PASOS PARA INSTALAR LA BASE DE DATOS*
+Decargar MySQL Server del Sitio Oficial
+›- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **çet**
+›-Descargamos el archivo de respaldo de la base de datos (-sal)
+>-restauramos la Base de Datos usando el comando mysal
+C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root
+password ‹ respaldo sal
+documentar (actualización del apartado 5)
 
 
 
