@@ -12,3 +12,17 @@ Para poder realizar una buena documentacion del proyecto debemos, distribuir cor
 ##### Encabezado de nivel 5 - Similar a H5 en HTML
 ###### Encabezado de nivel 6 - Similar a H6 en HTML
 ####### Encabezado de nivel 7 - Solo 6 de los niveles permitidos, a partir de este el maquetado sera ignorado. 
+
+### 2. Separadores (SEPARATORS)
+Si desea marcar una separacion mas viual de contenidos podemos utilizarlos indicando tres caractres de "-" continuos, en el maqueado
+
+EJEMPLO:
+---
+"Esto es similar a un tag de <HR> en HTML
+
+### Parrafos (PARAGRPAHS)
+Son utilizados para poder presentar grandes secciones de texto que describen detalladamente las secciones de la documentacion del proyecto.
+
+EJEMPLO: Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 
+
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 
