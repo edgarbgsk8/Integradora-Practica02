@@ -79,22 +79,26 @@ TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <ins>TEXTO Subrayado</ins> TEXTO
 
-#Integradora practica 03
+#### Integradora practica 03
 Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación
-###5. Cuadros de código o reseñas (BLOCKQUOTES)
+#### 5. Cuadros de código o reseñas (BLOCKQUOTES)
 Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicializar mostrar secciones de código fuente. Se maqueta iniciando el texto
 con un símbolo de mayor que (»).
-*EJEMPLO*
+
+
+**EJEMPLO**
 Para listar las carpetas y archivos es desde una terminal de sistema operativo windows debemos ingresar el comando:
 C:/dir
 Después oprimimos la tecla "enter"
 También podemos ingresas textos multilínea
-*EJEMPLO*
+
+**EJEMPLO**
 ›Aqui se ingresa un conjunto de instrucciones
 ›para explicar al usuario, como instalar el
 ›que hemos diseñado.
 Y si deseamos incluir viñetas para enlistar los pasos podemos utilizar el carácter dentro del texto a documentar
-*EJEMPLO*
+
+**EJEMPLO**
 *PASOS PARA INSTALAR LA BASE DE DATOS*
 Decargar MySQL Server del Sitio Oficial
 ›- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **çet**
@@ -104,7 +108,7 @@ C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root
 password ‹ respaldo sal
 documentar (actualización del apartado 5)
 
-**6. Listas ordenadas y Desordenadas
+### 6. Listas ordenadas y Desordenadas
 si en nuestra documentación necesitamos incluir informacion de texto en modo de lista, un elemento tras otro podemos hacerlo utilizando los números con un puntodecimal si las deceamos
 ordenadas o un guin en medio - si solo queremos una viñeta
 *EJEMPLO*
