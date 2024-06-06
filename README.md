@@ -69,12 +69,15 @@ Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con "
 Texto TextoTexto Texto Texto Texto **Texto importante** Texto Texto Texto Texto
 
 #### Subrayado (UNDERLINE)
-algunas veces necesitaremos subrayar texto dentro de la documentacion, para ello, si bien markdown no tiene atajo o codificacion rapida podemos utilizar el estilo que use el
-estandar HTML usando tag/‹ins> y cerrando con /</ins>.
+algunas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien markdowo no tiene un atajo o codificación rápida podemos utilizar el estilo que use el estándar de
+HTML usando el tag /‹ins› y cerrando con /</ins>.
 *EJEMPLO*
-ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО
-ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО
-ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО ТЕХТО
+TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTR TEXTO TEXTO TEXTO
+TEXTO TEXTO TEXTO TEXTO
+"TEXTO Cursivo"
+TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
+TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
+TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <iNS› TEXTO Subrayado ‹ ins> TEXTO
 
 
 
