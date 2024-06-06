@@ -123,7 +123,7 @@ Las liiigas son utilizadas para vincular elementos o referencias del proyecto de
 
 **EJEMPLO:**
 
-Mi buscador favorito es: [Google](https://vivn.google.com).
+Mi buscador favorito es: [Google](https://www.google.com).
 
 Pero si deseamos poner solo las ligas directras o un correo podemos utilizar los simbolos  \< \>
 
