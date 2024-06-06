@@ -42,3 +42,17 @@ Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
 Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
 Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
 Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+
+<p align="center">
+Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion 
+
+
+
+
+
+
+
+
+
+
+
