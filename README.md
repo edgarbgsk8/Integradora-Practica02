@@ -130,7 +130,7 @@ Pero si deseamos poner solo las ligas directras o un correo podemos utilizar los
 **EJEMPLO:**
 Documentación creada por:   ***Edgar Becerra González*** 
 edgarbgsk8@gmail.com
-(http/www.utxicotepec.edu.mx)
+(http://www.utxicotepec.edu.mx)
 
 
 
