@@ -123,7 +123,7 @@ Las liiigas son utilizadas para vincular elementos o referencias del proyecto de
 
 **EJEMPLO:**
 
-Mi buscador favorito es: [Google](httos://vivn.google.com).
+Mi buscador favorito es: [Google](https://vivn.google.com).
 
 
 
