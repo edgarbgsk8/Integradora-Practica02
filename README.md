@@ -49,6 +49,33 @@ Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta c
 <p align="justify">
 Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion Este parrafo estara justificado utilizando la propiedad de alineacion 
 
+### 4. Texto Enfatizqado (BOLD, ITALIC, BOLD/ITALIC)
+Si el texto que deseamos enfatizar encuentra de un parrafo, podremos utilizar algunos trucos para ubicarlos en la documentacion 
+
+Texto en Negrita (BOLD)
+
+Para poder poner el texto en negrita, este debera ser encerrado entre dobles *
+
+EJEMPLO: 
+
+**Texto importante Texto Texto Texto Texto Texto Texto Importante Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
