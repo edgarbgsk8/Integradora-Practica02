@@ -128,7 +128,8 @@ Mi buscador favorito es: [Google](https://vivn.google.com).
 Pero si deseamos poner solo las ligas directras o un correo podemos utilizar los simbolos  \< \>
 
 **EJEMPLO:**
-Documentación creada por:   ***Edgar Becerra González*** (edgarbgsk8@gmail.com)
+Documentación creada por:   ***Edgar Becerra González*** 
+edgarbgsk8@gmail.com
 
 
 
