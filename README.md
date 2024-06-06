@@ -79,7 +79,22 @@ TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <iNS› TEXTO Subrayado ‹ ins> TEXTO
 
-
+#Integradora practica 03
+Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación
+###5. Cuadros de código o reseñas (BLOCKQUOTES)
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicializar mostrar secciones de código fuente. Se maqueta iniciando el texto
+con un símbolo de mayor que (»).
+*EJEMPLO*
+Para listar las carpetas y archivos es desde una terminal de sistema operativo windows debemos ingresar el comando:
+C:/dir
+Después oprimimos la tecla "enter"
+También podemos ingresas textos multilínea
+*EJEMPLO*
+›Aqui se ingresa un conjunto de instrucciones
+›para explicar al usuario, como instalar el
+›que hemos diseñado.
+Y si deseamos incluir viñetas para enlistar los pasos podemos utilizar el carácter dentro del texto a documentar
+*EJEMPLO*
 
 
 
