@@ -26,3 +26,19 @@ Son utilizados para poder presentar grandes secciones de texto que describen det
 EJEMPLO: Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 
 
 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 
+
+<p align="right">
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion 
